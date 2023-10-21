@@ -54,6 +54,14 @@ This repository contains the following solo projects:
   
 ![Website Screenshot](https://github.com/hichamweblog/Unit-Conversion/blob/main/src/images/app-screenshot.png)
 
+### Project 8: Learning Journal blog
+- [Project Repository](https://github.com/hichamweblog/Learning-Journal)
+- A minimalistic website for sharing a personal learning journey. Designed with simplicity and readability in mind.
+- Live demo: [Learning Journal](https://dz-learning-journal.netlify.app/)
+
+  
+![Website Screenshot](https://github.com/hichamweblog/Learning-Journal/blob/main/src/images/app-screenshot.png)
+
 
 
 ## Contributing
