@@ -6,11 +6,6 @@ Welcome to my GitHub repository for the Solo Projects from Scrimba's Frontend De
 
 - [About Scrimba](#about-scrimba)
 - [Solo Projects](#solo-projects)
-   1. [Discover Algeria](#project-1-discover-algeria)
-   2. [Basketball Scoreboard](#project-2-basketball-scoreboard)
-   3. [Password Generator](#project-3-password-generator)
-   4. [Unit Conversion](#project-4-unit-conversion)
-   5. [We Are The Champions](#project-5-we-are-the-champions)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
