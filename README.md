@@ -26,7 +26,7 @@ This repository contains the following solo projects:
 | Unit Conversion          | [Unit Conversion Repository](https://github.com/hichamweblog/Unit-Conversion) | A simple application that allows you to convert between different units of measurement.                              | [Unit Conversion](https://dz-unit-conversion.netlify.app/) |
 |  We Are The Champions       | [We Are The Champions Repository](https://github.com/hichamweblog/We-Are-TheChampions) | A simple endorsements manager that allows users to add and display endorsements.                                    | [We Are The Champions](https://dz-we-are-the-champions.netlify.app/) |
 |  Learning Journal blog       | [Learning Journal Repository](https://github.com/hichamweblog/Learning-Journal) | A minimalistic website for sharing a personal learning journey. Designed with simplicity and readability in mind.   | [Learning Journal](https://dz-learning-journal.netlify.app/) |
-
+| ...       | ... | ...   | ... |
 
 
 
